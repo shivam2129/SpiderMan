@@ -1,0 +1,43 @@
+.header h1{
+    background-color: cyan;
+    text-align: center
+}
+
+.multiverse h1{
+    background-color: coral;
+    border : solid;
+    text-align: center;
+}
+
+*{
+    background-color: rgb(115, 223, 105);
+
+
+}
+.header *{
+    border: solid;
+}
+  
+.description {
+    
+    
+    
+    text-align: center;
+    font-weight: bold;
+}
+
+.all{
+
+ display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.item{
+    margin: 30px;
+    border: 10px solid   ;
+    background-color: blue;
+    border-radius: 30px;
+
+} 
+
